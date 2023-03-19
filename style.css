@@ -1,0 +1,35 @@
+#show_sketch
+{
+    float: right;
+}
+h1
+{
+    background-color: rgb(223, 255, 216);
+    margin: 0px;
+    padding: 10px;
+}
+body
+{
+    background-color: rgb(180, 228, 255);
+}
+h3{
+    color: black;
+}
+h2{
+    color: red;
+    font-weight: bolder;
+}
+.jlk
+{
+    color: black;
+    font-weight: bold;
+    float: left;
+    margin-left: 15px;
+}
+.jlm
+{
+    color: black;
+    font-weight: bold;
+    float: right;
+    margin-right: 15px;
+}
